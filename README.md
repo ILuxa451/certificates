@@ -12,9 +12,5 @@
 ### 🖥️ Базовые IT-навыки
 *   **[Basic Skills IT-OnTime](./basic-skills-it-ontime.pdf)** — Базовые навыки работы в IT.
 
-## 🔗 Связанные репозитории
-*   **Linux Labs:** [github.com/ILuxa451/linux-labs](https://github.com/ILuxa451/linux-labs)
-*   **Windows Labs:** [github.com/ILuxa451/windows-labs](https://github.com/ILuxa451/windows-labs)
-
 ---
 *Все сертификаты доступны для просмотра в формате PDF в этом репозитории.*
