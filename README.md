@@ -1,2 +1,20 @@
-# Certificates
-Professional certificates and diplomas
+# 🎓 Certificates
+
+Коллекция профессиональных сертификатов и дипломов, подтверждающих практические навыки в IT.
+
+## 📜 Список сертификатов
+
+### 🐧 Linux и инфраструктура
+*   **[Linux: Основы командной строки (Stepik)](./stepik-linux-cli-certificate.pdf)** — 99%, с отличием. Подтверждает знание базовых команд, навигации по файловой системе, прав доступа и работы с текстом в терминале.
+*   **[RedOS Администратор](./red-os-admin.pdf)** — Подтверждает навыки администрирования отечественной ОС RedOS (Red Hat-семейство).
+*   **[Диплом сетевого администратора](./diploma-network-admin.pdf)** — Подтверждает знания в области сетевых технологий и администрирования.
+
+### 🖥️ Базовые IT-навыки
+*   **[Basic Skills IT-OnTime](./basic-skills-it-ontime.pdf)** — Базовые навыки работы в IT.
+
+## 🔗 Связанные репозитории
+*   **Linux Labs:** [github.com/ILuxa451/linux-labs](https://github.com/ILuxa451/linux-labs)
+*   **Windows Labs:** [github.com/ILuxa451/windows-labs](https://github.com/ILuxa451/windows-labs)
+
+---
+*Все сертификаты доступны для просмотра в формате PDF в этом репозитории.*
